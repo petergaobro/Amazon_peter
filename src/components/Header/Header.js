@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
+// import '../';
 import '../Header/Header.css';
 import '../Home/Home.css';
 import SearchIcon from '@material-ui/icons/Search';
